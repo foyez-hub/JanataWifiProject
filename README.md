@@ -49,12 +49,12 @@ This project is a simple web application built with ReactJS for the frontend and
 2. **Backend Setup**:
     - Navigate to the backend directory:
         ```bash
-        cd backend
+        cd Backend
         ```
     - Create a virtual environment and activate it:
         ```bash
-        python -m venv venv
-        source venv/bin/activate
+        myenv\Scripts\activate
+       
         ```
     - Install the required dependencies:
         ```bash
@@ -66,13 +66,18 @@ This project is a simple web application built with ReactJS for the frontend and
         ```
     - Start the Django development server:
         ```bash
+        cd .\myproject\
         python manage.py runserver
         ```
 
 3. **Frontend Setup**:
     - Navigate to the frontend directory:
         ```bash
-        cd frontend
+        cd Frontend
+        ```
+    - Navigate to the frontend directory:
+        ```bash
+        cd React-crud-app
         ```
     - Install the required dependencies:
         ```bash
