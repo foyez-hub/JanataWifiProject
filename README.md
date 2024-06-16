@@ -138,7 +138,7 @@ For any questions or issues, please contact me at:
 - Phone: +8801863703256
 
 ## Links
-
 - **GitHub Repository**: [https://github.com/foyez-hub/JanataWifiProject]
+- **Youtube Demo**: [https://www.youtube.com/watch?v=LOADwkDoHnk
 - **Live Application**: [https://66698b4b4ca94d0e78f23bc9--rainbow-sunburst-215da2.netlify.app/]
 
