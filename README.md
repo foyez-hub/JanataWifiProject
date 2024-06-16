@@ -1,5 +1,3 @@
-![2024-06-1520-03-31-ezgif com-video-to-gif-converter](https://github.com/foyez-hub/JanataWifiProject/assets/59407058/92988451-4509-4867-8265-7aa75fa9a511)
-
 
 https://github.com/foyez-hub/JanataWifiProject/assets/59407058/4a3d1922-57dd-4117-8fd0-993779539aa6
 
